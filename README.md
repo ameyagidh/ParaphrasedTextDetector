@@ -29,6 +29,10 @@ git clone <repository_URL>
 
 3. To predict rephrased text pairs using the trained model, execute the final block in the file `BERT/QQP_PAWS_BERT.ipynb`.
 
+### Sceenshots
+<img width="606" alt="Screenshot 2024-03-15 at 5 51 51 PM" src="https://github.com/ameyagidh/ParaphrasedTextDetector/assets/65457905/f4706080-83a4-48bb-9468-0c7c56a8a14e">
+
+
 ### Future Work
 To enhance the project further:
 
