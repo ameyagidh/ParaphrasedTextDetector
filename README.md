@@ -1,7 +1,5 @@
 # ParaphrasedTextDetector
 
-Rewrite the provided text in a different form while maintaining the original meaning:
-
 ### Introduction
 The objective of this project is to develop neural network models capable of identifying pairs of rephrased texts. Paraphrasing involves conveying the same message as the original text by rewording or rearranging its content. Detecting such rephrased texts holds significance in various applications, such as spotting duplicate questions on online platforms, assisting in finding answers to similar queries, and detecting plagiarism in academic contexts.
 
